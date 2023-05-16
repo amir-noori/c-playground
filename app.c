@@ -1,11 +1,7 @@
-
 #include "features.h"
 
-int main() {
-    print_to_console();
+int main()
+{
+    test();
     return 0;
 }
-
-
-
-
